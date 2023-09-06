@@ -1,7 +1,4 @@
 #include <stdio.h>
-
-// HH : MM : SS
-
 int main()
 {
     int totalSeconds;

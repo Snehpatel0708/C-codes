@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-
-// 3 integers
-// a,b,c
-// (a,b) , (b,c), (a,c) --> Divisible
-
 int main()
 {
     int a, b, c;

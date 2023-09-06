@@ -1,6 +1,3 @@
-//Made by Vlad. Budnitski.
-//AlphaTech - Programming Course.
-
 #include <stdio.h>
 #include <stdlib.h>
 
