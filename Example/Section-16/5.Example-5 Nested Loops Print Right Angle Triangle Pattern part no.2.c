@@ -1,3 +1,6 @@
+//Made by Vlad. Budnitski.
+//AlphaTech - Programming Course.
+
 #include <stdio.h>
 
 // n = 3
